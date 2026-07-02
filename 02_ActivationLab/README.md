@@ -55,11 +55,11 @@ ActivationLab/
 
 ## ▶️ Run Locally
 
-``` bash
-git clone https://github.com/YOUR_USERNAME/ActivationLab.git
-cd ActivationLab
+```bash
+git clone https://github.com/Raj-Halwai/100-Days-Of-ML.git
+cd 100-Days-Of-ML/02_ActivationLab
 pip install -r requirements.txt
-jupyter notebook
+jupyter notebook ActivationLab.ipynb
 ```
 
 ## 🎯 Learning Outcomes
